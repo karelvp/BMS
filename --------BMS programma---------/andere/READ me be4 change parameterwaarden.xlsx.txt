@@ -1,0 +1,5 @@
+The number of SOC points can be changed to more or less.
+The number of different current values can be changed to more or less
+
+If there are more Values for different temperatures then in the programm "parameterbepaling" the value 
+of rangeT must be changed to the correct value of the number of temperature collumns
