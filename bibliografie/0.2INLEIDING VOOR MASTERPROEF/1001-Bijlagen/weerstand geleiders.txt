@@ -1,0 +1,8 @@
+WEERSTAND GELEIDERS
+
+	
+4mm² --> 5ohm/km
+2.5mm² --> 8ohm/km
+
+interne weerstand in berekening zo hoog mogelijk nemen zodat de waarde van de 
+minimumspanning zo snel mogelijk bereikt wordt en dat er geen ondergrens van de batterij wordt overschreden.
