@@ -1,0 +1,9 @@
+https://nl.mathworks.com/matlabcentral/fileexchange/36019-lithium-battery-model--simscape-language-and-simulink-design-optimization
+
+https://nl.mathworks.com/videos/automating-battery-model-parameter-estimation-using-experimental-data-81987.html
+
+http://mocha-java.uccs.edu/ECE5710/index.html
+
+files matlab:
+Jackey : R2012a zip
+plett: ekf en esc toolbox zip
